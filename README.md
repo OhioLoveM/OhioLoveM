@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OhioLoveM
-- 👀 I’m interested in Cloud Engineering
+- 👀 I’m interested in Cloud Comupting
 - 🌱 I’m currently learning AWS Solutions Architect
 - 💞️ I’m looking to collaborate on hands on projects
 - 📫 How to reach me linkedin @lovemcnill
